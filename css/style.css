@@ -1,0 +1,191 @@
+body {
+    margin:0;
+    font-family: sans-serif;
+    
+}
+
+.menu{
+    background-color: #FFDD00;
+    width: 100%;
+    display: flex;
+}
+
+#logo{
+    height: 40px;
+    padding: 10px 0 10px 15px;
+    margin-left: 7%;
+}
+
+#bot{
+    margin-top: 5px;
+    width: 70%;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 7%;
+}
+
+#cadastro{
+    margin-top: 5px;
+    width: 15%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.menu nav a {
+padding: 5%;
+font-size: 20px;
+color: black;
+text-decoration: none;
+}
+
+.cadastro nav a{
+    padding: 5%;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+
+#banner{
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    
+}
+#cursosHome a{
+    text-decoration: none;
+    color: black;
+    margin-left: 15%;
+    font-weight: bold;
+}
+
+.conteudoHome{
+    width: 80%;
+    height: auto;
+    margin: 11%;
+}
+.conteudoHome img{
+    border-radius: 16px;
+}
+#curso1, #curso2, #curso3{
+    float: left;
+    margin-left: 10%;
+    width: 255px;
+    height: auto;
+    text-align: center;
+}
+
+
+#faixa1{
+    color: black;
+    display: flex;
+    margin-left: 5%
+}
+#curso4, #curso5, #curso6{
+    margin-top: 10%;
+    float: left;
+    margin-left: 10%;
+    width: 255px;
+    height: auto;
+    text-align: center;
+}
+
+#faixa2{
+    color: black;
+    display: flex;
+    margin-left: 5%
+}
+#curso7, #curso8, #curso9{
+    margin-top: 10%;
+    float: left;
+    margin-left: 10%;
+    width: 255px;
+    height: auto;
+    text-align: center;
+}
+
+#faixa3{
+    color: black;
+    display: flex;
+    margin-left: 5%
+}
+#rodape{
+    background-color: #FFDD00;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    
+}
+#rodape a{
+    color:black;
+    text-decoration: none;
+}
+
+#rodape-div1{
+    text-align: left;
+    margin-left:5%;
+    margin-right: 7%;
+    margin-top: 2%;
+    font-weight: bold;
+}
+#rodape-div2{   
+    text-align: left;
+    margin-right: 65%;
+    margin-top: 2%;
+    font-weight: bold;
+}
+#icons-social{
+    text-align: center;
+    margin-top:4%;
+}
+#direito{
+    background-color: #FFDD00;
+    text-align: center; 
+    font-weight: bold;
+}
+#faixa1 a, #faixa2 a, #faixa3 a{
+    text-decoration: none;
+    color: black;
+}
+.ops{
+    width: 100%;
+    height: 600px;
+    margin-left: 33%;
+    margin-top: 5%;
+
+}
+.contentsobre{
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-top: 5%;
+    text-align: left;
+}
+
+.homeCont{
+    border-radius: 10px;
+    width: 50%;
+    height: 400px;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+.homeCont h3{
+    text-align: center;
+}
+#wpp-contato{
+    width: 7%;
+    height: 100px;
+    margin-left: 5%;
+}
+#img-wpp-contato{
+    margin-top: 60%;
+    margin-left: 15%;
+    width: 80%;
+    height: 50px;
+   
+}
+
+#wpp-cont, #wpp-contato{
+    float: left;
+}
+
